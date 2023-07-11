@@ -1,9 +1,9 @@
 # WeatherApp
 
 ## Tech Used
-  -HTML
-  -CSS
-  -JavaScript
+  -HTML<br>
+  -CSS<br>
+  -JavaScript<br>
 
 
 
