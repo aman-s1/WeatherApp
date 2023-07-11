@@ -1,5 +1,6 @@
 # WeatherApp
-
+  A web application designed with help of HTML,CSS and JavaScript to fetch weather details.
+  
 ## Tech Used
   -HTML<br>
   -CSS<br>
