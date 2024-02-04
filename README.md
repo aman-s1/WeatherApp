@@ -2,9 +2,9 @@
   A web application designed with help of HTML,CSS and JavaScript to fetch weather details.
   
 ## Tech Used
-  -HTML<br>
-  -CSS<br>
-  -JavaScript<br>
+- HTML<br>
+- CSS<br>
+- JavaScript<br>
 
 ## Steps and Results
 
